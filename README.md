@@ -1,5 +1,3 @@
-Here’s a suggested README.md template for your UFC Betting Odds project, based on the Jupyter notebook you linked. You should adjust the details (data sources, methodology, dependencies) to match exactly what your notebook contains.
-
 # UFC Betting Odds Analysis
 
 A data analysis and modeling project centered around UFC betting odds and fight outcomes, implemented in a Jupyter Notebook.
@@ -151,7 +149,3 @@ Please adhere to code style (e.g. PEP 8) and include comments / docstrings.
 License
 
 Specify your license here (e.g. MIT License).
-
-⸻
-
-If you like, I can inspect your notebook in more detail and auto-generate a README reflecting exactly what you do (names of modules, key metrics, sample output). Would you like me to generate that for you?
